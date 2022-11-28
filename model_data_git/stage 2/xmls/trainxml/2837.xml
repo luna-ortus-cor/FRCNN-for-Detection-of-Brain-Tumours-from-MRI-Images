@@ -1,0 +1,26 @@
+<annotation>
+    <folder>all_img_final</folder>
+    <filename>2837.jpg</filename>
+    <path>/content/drive/My Drive/all_img_final/2837.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>512</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>glioma</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>180</xmin>
+            <ymin>171</ymin>
+            <xmax>266</xmax>
+            <ymax>223</ymax>
+        </bndbox>
+    </object>
+</annotation>

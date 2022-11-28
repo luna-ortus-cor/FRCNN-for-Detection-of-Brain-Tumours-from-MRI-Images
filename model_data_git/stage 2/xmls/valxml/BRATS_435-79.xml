@@ -1,0 +1,26 @@
+<annotation>
+    <folder>all_img_final</folder>
+    <filename>BRATS_435-79.jpg</filename>
+    <path>/content/drive/My Drive/all_img_final/BRATS_435-79.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>240</width>
+        <height>240</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>glioma</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>59</xmin>
+            <ymin>73</ymin>
+            <xmax>159</xmax>
+            <ymax>118</ymax>
+        </bndbox>
+    </object>
+</annotation>

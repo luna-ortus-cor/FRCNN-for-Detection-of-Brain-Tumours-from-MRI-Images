@@ -1,0 +1,26 @@
+<annotation>
+    <folder>all_img_final</folder>
+    <filename>363.jpg</filename>
+    <path>/content/drive/My Drive/all_img_final/363.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>512</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>meningioma</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>90</xmin>
+            <ymin>184</ymin>
+            <xmax>158</xmax>
+            <ymax>258</ymax>
+        </bndbox>
+    </object>
+</annotation>

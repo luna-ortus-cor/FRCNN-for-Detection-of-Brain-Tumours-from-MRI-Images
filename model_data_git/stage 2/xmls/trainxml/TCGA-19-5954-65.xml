@@ -1,0 +1,26 @@
+<annotation>
+    <folder>all_img_final</folder>
+    <filename>TCGA-19-5954-65.jpg</filename>
+    <path>/content/drive/My Drive/all_img_final/TCGA-19-5954-65.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>240</width>
+        <height>240</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>glioma</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>94</xmin>
+            <ymin>51</ymin>
+            <xmax>199</xmax>
+            <ymax>109</ymax>
+        </bndbox>
+    </object>
+</annotation>
